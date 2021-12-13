@@ -11,4 +11,7 @@ sudo make install
 
 
 # Narrow band levelset of sphere
+
+<img src="(pics/sphere.png" alt="drawing" width="200"/>
+
 ![Sphere](pics/sphere.png)

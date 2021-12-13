@@ -1,2 +1,3 @@
-# examples_vdb
-Examples of openvdb
+# How to build
+cmake .. -DUSE_NANOVDB=ON -DOPENVDB_BUILD_NANOVDB=ON -DOPENVDB_BUILD_VDB_RENDER=ON
+

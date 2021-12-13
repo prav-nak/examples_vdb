@@ -8,3 +8,7 @@ cmake .. -DUSE_NANOVDB=ON -DOPENVDB_BUILD_NANOVDB=ON -DOPENVDB_BUILD_VDB_RENDER=
 make -j4
 sudo make install
 ```
+
+
+# Narrow band levelset of sphere
+![Sphere](pics/sphere.png)
